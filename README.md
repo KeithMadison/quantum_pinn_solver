@@ -11,4 +11,4 @@
     solver.train(E)
     solver.plot_wavefunction()
 ```
-![A plot of the ground state solution to the quantum harmonic oscillator.]([https://i.ibb.co/VmR9vcw/Figure-1.png])
+![A plot of the ground state solution to the quantum harmonic oscillator.](https://i.ibb.co/VmR9vcw/Figure-1.png)
